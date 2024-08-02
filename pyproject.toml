@@ -5,6 +5,9 @@ description = ""
 authors = ["Pony.Ma <mtf201013@gmail.com>"]
 license = "MIT"
 readme = "README.md"
+repository = "https://github.com/ma-pony/playwright-spider-utils"
+homepage = "https://github.com/ma-pony/playwright-spider-utils"
+keywords = ["playwright", "spider", "utils", "scrapy", "scrapy-playwright", "playwright-spider"]
 packages = [{ include = "playwright_spider_utils" }]
 
 
